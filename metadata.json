@@ -1,0 +1,6 @@
+{
+  "name": "Linux Tree Visualizer",
+  "description": "Interactive Linux tree visualization tool supporting directory and zip upload, manual hierarchy editing, expandable tree graph, CLI syntax preview, and high-res SVG & PNG image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
